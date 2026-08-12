@@ -1,0 +1,9 @@
+build/* linguist-vendored
+public/* linguist-vendored
+*.bat text eol=crlf
+
+src/**/*.ts linguist-detectable
+*.jpg binary
+*.map linguist-generated
+
+public/** linguist-vendored
